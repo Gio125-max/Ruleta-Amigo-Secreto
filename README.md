@@ -1,6 +1,5 @@
-# Challenge Amigo Secreto :gift:
-
-## Desafío de la formación de Principiante en Programación de Alura LATAM & Oracle
+<h1> :gift: Challenge del Amigo Secreto :gift: </h1>
+-Desafío de la formación de Principiante en Programación de Alura LATAM & Oracle
 
 ![aluraoracle](https://github.com/user-attachments/assets/7c4b4d42-5160-4309-94c5-56d8a8d4be5c)
 
@@ -19,6 +18,9 @@ El siguiente proyecto de **JavaScript** del desafío de Principiante en Programa
 :no_entry_sign: No permite nombres duplicados :no_entry_sign:
 
 :no_entry: No permite símbolos y números :no_entry:
+
+> [!NOTE]
+>Hola
 
 ## Requisitos :clipboard:
 
