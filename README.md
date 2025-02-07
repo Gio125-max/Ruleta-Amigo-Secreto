@@ -8,12 +8,17 @@ El siguiente proyecto de **JavaScript** del desafío de Principiante en Programa
 
 ## Funciones del programa :computer:
 
-- Agregar Amigo a lista :pencil2:
-- Mostrar Amigos agregados :page_facing_up:
-- Sortear Amigo aleatoriamente :game_die:
-- Limpieza de lista y reincio del sorteo :arrows_counterclockwise:
-- No permite nombres duplicados :no_entry_sign: **NEW**
-- No permite símbolos y números :no_entry: **NEW**
+:pencil2: Agregar Amigo a lista :pencil2:
+
+:page_facing_up: Mostrar Amigos agregados :page_facing_up:
+
+:game_die: Sortear un amigo aleatoriamente :game_die:
+
+:arrows_counterclockwise: Posibilidad de remover a un amigo de lista y reintento del sorteo :arrows_counterclockwise:
+
+:no_entry_sign: No permite nombres duplicados :no_entry_sign:
+
+:no_entry: No permite símbolos y números :no_entry:
 
 ## Requisitos :clipboard:
 
