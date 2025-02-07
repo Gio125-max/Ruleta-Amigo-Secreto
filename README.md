@@ -45,28 +45,28 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 ## Ejecutando las pruebas ⚙️
 Actualmente, este proyecto no cuenta con pruebas automatizadas, pero se recomienda probar manualmente:
 ### Pruebas funcionales
--Agregar nombres a la lista y verificar que aparecen correctamente.
+- Agregar nombres a la lista y verificar que aparecen correctamente.
 
--Intentar agregar nombres repetidos y validar que el mensaje de error se muestra.
+- Intentar agregar nombres repetidos y validar que el mensaje de error se muestra.
 
--Introducir caracteres especiales y verificar que se rechacen.
+- Introducir caracteres especiales y verificar que se rechacen.
 
--Sortear un amigo secreto con menos de dos participantes para validar la restricción.
+- Sortear un amigo secreto con menos de dos participantes para validar la restricción.
 
 ## Funciones del programa :computer:
 > [!TIP]
-> :pencil2: Agregar Amigo a lista :pencil2:
+> - Agregar Amigo a lista :pencil2:
 > 
-> :page_facing_up: Mostrar Amigos agregados :page_facing_up:
+> - Mostrar Amigos agregados :page_facing_up:
 > 
-> :game_die: Sortear un amigo aleatoriamente :game_die:
+> - Sortear un amigo aleatoriamente :game_die:
 > 
-> :arrows_counterclockwise: Posibilidad de remover a un amigo de lista y reintentar el sorteo :arrows_counterclockwise:
+> - Posibilidad de remover a un amigo de lista y reintentar el sorteo :arrows_counterclockwise:
 
 > [!WARNING]
-> :no_entry_sign: No permite nombres duplicados :no_entry_sign:
+> - No permite nombres duplicados :no_entry_sign:
 > 
-> :no_entry: No permite símbolos y números :no_entry:
+> - No permite símbolos y números :no_entry:
 
 ## Instrucciones :bookmark_tabs:
 1. **Agregar amigos** :raising_hand:
@@ -82,13 +82,13 @@ Actualmente, este proyecto no cuenta con pruebas automatizadas, pero se recomien
 ## Despliegue 📦
 Para desplegar este proyecto en la web, puedes utilizar GitHub Pages siguiendo estos pasos:
 
--Sube tu código a GitHub
+- Sube tu código a GitHub
 
--Ve a la configuración de tu repositorio y habilita GitHub Pages
+- Ve a la configuración de tu repositorio y habilita GitHub Pages
 
--Selecciona la rama donde está el archivo index.html
+- Selecciona la rama donde está el archivo index.html
 
--Accede al enlace generado para ver la aplicación en producción
+- Accede al enlace generado para ver la aplicación en producción
 
 ## Construido con 🛠️
 - [HTML](https://developer.mozilla.org/es/docs/Web/HTML) - Estructura del proyecto.
@@ -100,6 +100,6 @@ Giovanni Ramirez Frias - Desarrollo
 
 
 
-💪 Creado con pasión por la tecnologia ❤️
+ ###                                                       💪 Creado con pasión por la tecnologia ❤️
 
 
